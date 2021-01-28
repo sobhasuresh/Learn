@@ -1,1 +1,2 @@
 Print("I'm Hungry")
+print ("Eat Samosa")
